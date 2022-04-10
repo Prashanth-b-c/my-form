@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/my-form/pra/static/css/main.32ae4d18.css",
+    "main.js": "/my-form/pra/static/js/main.63a0c290.js",
+    "static/js/787.844f336d.chunk.js": "/my-form/pra/static/js/787.844f336d.chunk.js",
+    "index.html": "/my-form/pra/index.html",
+    "main.32ae4d18.css.map": "/my-form/pra/static/css/main.32ae4d18.css.map",
+    "main.63a0c290.js.map": "/my-form/pra/static/js/main.63a0c290.js.map",
+    "787.844f336d.chunk.js.map": "/my-form/pra/static/js/787.844f336d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32ae4d18.css",
+    "static/js/main.63a0c290.js"
+  ]
+}
